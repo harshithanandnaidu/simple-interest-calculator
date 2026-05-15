@@ -1,0 +1,7 @@
+git checkout main
+git merge bug-fix-typo
+
+Updating 41d405f..03282bc
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
