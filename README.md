@@ -15,3 +15,4 @@ Where:
 - Calculates simple interest
 - Easy to use
 - Beginner-friendly project
+"fix typo" 
